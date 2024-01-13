@@ -25,9 +25,9 @@ I have selected a dataset on the product information extracted from Sephora, a c
 ## Follow these steps to create a report of this project using Docker:
 
 ### 1.Clone Repository into your local computer
-Open a terminal on your PC and go to a working directory :  
+Open a terminal on your PC and go to a working directory and type the following :  
 ```git clone https://github.com/malavika-vm/Final_report```  
-Now you have saved all these files in your working directory. You will see a file names Final_report. 
+Now you have saved all these files in your working directory. You will see a file named Final_report. 
 ### 2.Build a docker image 
 ```cd Final_report```  
 
